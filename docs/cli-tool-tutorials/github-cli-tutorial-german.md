@@ -68,7 +68,9 @@ Ersetzen Sie `your-branch-name` durch den Namen des Branches, den Sie zuvor erst
 
 <details><summary><strong>Wenn Sie beim Verschieben Fehler bekommen, klicken Sie hier:</strong></summary></details>
 
+
 - ### Authentifizierungsfehler
+
   Remote: Die Unterstützung für Passwortauthentifizierung wurde am 13. August 2021 entfernt.\<br>
   
   
