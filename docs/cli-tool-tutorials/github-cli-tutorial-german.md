@@ -66,10 +66,10 @@ git push origin -u your-branch-name
 
 Ersetzen Sie `your-branch-name` durch den Namen des Branches, den Sie zuvor erstellt haben.
 
-<details><summary><strong>Wenn Sie beim Verschieben Fehler bekommen, klicken Sie hier:</strong></summary></details>
+<details><summary><strong>Wenn Sie beim Verschieben Fehler bekommen, klicken Sie hier:</strong></summary> 
 
 
-- ### Authentifizierungsfehler
+- ### Authentifizierungsfehler<br>
 
   Remote: Die Unterstützung für Passwortauthentifizierung wurde am 13. August 2021 entfernt.\<br>
   
@@ -80,7 +80,7 @@ Ersetzen Sie `your-branch-name` durch den Namen des Branches, den Sie zuvor erst
   Fatal: Authentifizierung für 'https://github.com//first-contrib.git/' fehlgeschlagen[GitHub-Anleitung zum Erstellen und Konfigurieren eines SSH-Schlüssels für Ihr Konto] 
   (https://docs.github.com/en/authentication/connecting-  to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).\<br>
   
-  
+</details>  
 
 # Reichen Sie Ihre Änderungen zur Überprüfung ein
 
