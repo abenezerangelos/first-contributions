@@ -72,10 +72,10 @@ Ersetzen Sie `your-branch-name` durch den Namen des Branches, den Sie zuvor erst
 
 - ### Authentifizierungsfehler<br>
 
-  <pre>Remote: Die Unterstützung für Passwortauthentifizierung wurde am 13. August 2021 entfernt.\<br> 
+  <pre>Remote: Die Unterstützung für Passwortauthentifizierung wurde am 13. August 2021 entfernt. <br> 
   Verwenden Sie stattdessen bitte ein Personal Access Token. Remote: Weitere Informationen finden Sie unter https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/. 
   Fatal: Authentifizierung für 'https://github.com//first-contrib.git/' fehlgeschlagen[GitHub-Anleitung zum Erstellen und Konfigurieren eines SSH-Schlüssels für Ihr Konto] 
-  (https://docs.github.com/en/authentication/connecting-  to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).\<br></pre>
+  (https://docs.github.com/en/authentication/connecting-  to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account). <br></pre>
     
   
 </details>  
